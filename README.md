@@ -35,6 +35,7 @@ pattern_3.c
 
 Output: https://drive.google.com/drive/folders/1pNpCg47qvEKsPiwBOEHlDYITDGjLGC7y?usp=drive_link
 
+
 Tech used
 Language: C
 Compiler: GCC (edit this if you're using something else, like Turbo C or Code::Blocks)
