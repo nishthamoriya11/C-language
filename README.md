@@ -7,6 +7,7 @@ The projects cover basic programming concepts such as variables, data types, con
 This repository represents my learning journey and will be updated regularly as I learn and practice new concepts.
 
 📁 project_1
+
 Small individual programs I practiced early on:
 angle_finder.c — Finds the angle (e.g., between clock hands or in a triangle)
 salary_calculator.c — Calculates salary based on given inputs
@@ -20,6 +21,7 @@ grade_calculator.c — Takes marks as input and calculates the grade
 Output: https://drive.google.com/file/d/1MsCSx-CQY21ebDENWRS7O9RW3K38luEg/view?usp=drive_link
 
 📁 project_3_Looper
+
 Programs built around loops:
 alphabet_skipper.c — Skips alphabets based on a given pattern/condition
 digit_addition.c — Adds up the digits of a number
@@ -28,12 +30,29 @@ digit_counter.c — Counts the number of digits in a number
 Output: https://drive.google.com/drive/folders/1nJSHhcHiCcfL9aA9z9D4vjTncAec1HIo?usp=drive_link
 
 📁 project_4_Pattern
+
 Different pattern-printing programs:
 pattern_1.c
 pattern_2.c
 pattern_3.c
 
 Output: https://drive.google.com/drive/folders/1pNpCg47qvEKsPiwBOEHlDYITDGjLGC7y?usp=drive_link
+
+📁 project_5_assortment
+
+A collection of C programs focused mainly on **arrays and matrices**.
+These programs helped me practice storing and processing multiple values using arrays.
+I also worked with matrix operations such as finding row and column sums and calculating the transpose of a matrix.
+
+largest_element.c — Takes an array as input and finds the largest element by comparing each element with the current maximum.
+
+negative_finder.c — Takes an array as input and identifies and displays all the negative elements present in it.
+
+sum_row_col.c — Takes a matrix as input and calculates the sum of a selected row and a selected column.
+
+transpose.c — Takes a matrix as input and generates its transpose by interchanging its rows and columns.
+
+Output:https://drive.google.com/drive/folders/1X9loHefIQVF8qGxYIXGSxqNwBXdlasc4?usp=sharing
 
 
 Tech used
