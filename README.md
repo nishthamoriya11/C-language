@@ -54,6 +54,21 @@ transpose.c — Takes a matrix as input and generates its transpose by interchan
 
 Output:https://drive.google.com/drive/folders/1X9loHefIQVF8qGxYIXGSxqNwBXdlasc4?usp=sharing
 
+📁 project_6_Filament
+
+A pair of programs focused on string manipulation, written without relying on C's built-in string functions — everything is done manually using loops and character comparisons.
+
+palindrome_checker.c — Takes a string as input and checks character by character (from both ends) whether it reads the same forwards and backwards, then prints whether it's a palindrome
+frequency_counter.c — Takes a string as input and goes through each character to count how many times it appears, then displays the frequency of every letter in the string.
+Output:https://drive.google.com/drive/folders/1iua-d5nKgMOmKp4ceyaMptUUQ_gr2Rz-?usp=sharing
+
+📁 project_7_Calculator
+A menu-driven calculator program that keeps running in a loop until the user chooses to exit.
+
+calculator.c — Displays a menu of arithmetic operations (addition, subtraction, multiplication, division, and modulus), takes the user's choice along with two numbers, and performs the selected operation using a switch case inside a loop. Each operation is handled through a separate user-defined function, and the program keeps repeating until the user presses the exit option
+
+Output: https://drive.google.com/drive/folders/1czQIyKRUxrk1S1INez2ZfR-b-CUnVGhE?usp=sharing
+
 
 Tech used
 Language: C
