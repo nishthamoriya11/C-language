@@ -6,6 +6,7 @@ The projects cover basic programming concepts such as variables, data types, con
 
 This repository represents my learning journey and will be updated regularly as I learn and practice new concepts.
 
+
 📁 project_1
 
 Small individual programs I practiced early on:
@@ -15,10 +16,12 @@ temp_convertor.c — Converts temperature between Celsius and Fahrenheit
 
 Output: https://drive.google.com/drive/folders/19Xv1NDQIitHbtYM2XkPzbmYsRNM4Lm6g?usp=drive_link
 
+
 📁 project_2_Grade_calculator
 grade_calculator.c — Takes marks as input and calculates the grade
 
 Output: https://drive.google.com/file/d/1MsCSx-CQY21ebDENWRS7O9RW3K38luEg/view?usp=drive_link
+
 
 📁 project_3_Looper
 
@@ -29,6 +32,7 @@ digit_counter.c — Counts the number of digits in a number
 
 Output: https://drive.google.com/drive/folders/1nJSHhcHiCcfL9aA9z9D4vjTncAec1HIo?usp=drive_link
 
+
 📁 project_4_Pattern
 
 Different pattern-printing programs:
@@ -37,6 +41,7 @@ pattern_2.c
 pattern_3.c
 
 Output: https://drive.google.com/drive/folders/1pNpCg47qvEKsPiwBOEHlDYITDGjLGC7y?usp=drive_link
+
 
 📁 project_5_assortment
 
@@ -54,6 +59,7 @@ transpose.c — Takes a matrix as input and generates its transpose by interchan
 
 Output:https://drive.google.com/drive/folders/1X9loHefIQVF8qGxYIXGSxqNwBXdlasc4?usp=sharing
 
+
 📁 project_6_Filament
 
 A pair of programs focused on string manipulation, written without relying on C's built-in string functions — everything is done manually using loops and character comparisons.
@@ -62,12 +68,23 @@ palindrome_checker.c — Takes a string as input and checks character by charact
 frequency_counter.c — Takes a string as input and goes through each character to count how many times it appears, then displays the frequency of every letter in the string.
 Output:https://drive.google.com/drive/folders/1iua-d5nKgMOmKp4ceyaMptUUQ_gr2Rz-?usp=sharing
 
+
 📁 project_7_Calculator
 A menu-driven calculator program that keeps running in a loop until the user chooses to exit.
 
 calculator.c — Displays a menu of arithmetic operations (addition, subtraction, multiplication, division, and modulus), takes the user's choice along with two numbers, and performs the selected operation using a switch case inside a loop. Each operation is handled through a separate user-defined function, and the program keeps repeating until the user presses the exit option
 
 Output: https://drive.google.com/drive/folders/1czQIyKRUxrk1S1INez2ZfR-b-CUnVGhE?usp=sharing
+
+
+📁 project_8_Indicator
+
+A pair of programs focused on using pointers to work with strings and arrays.
+
+length_finder.c — Takes a string as input and calculates its length by moving a pointer through the string until it reaches the null character, then prints the total length
+cubes_generator.c — Takes a 2D array as input, then uses a pointer along with a user-defined function to go through every element and calculate its cube, printing the resulting cubed array
+
+Output:https://drive.google.com/drive/folders/1x2ZrLP4UIXlMn4n-_62a32KKis1SOLiv?usp=sharing
 
 
 Tech used
